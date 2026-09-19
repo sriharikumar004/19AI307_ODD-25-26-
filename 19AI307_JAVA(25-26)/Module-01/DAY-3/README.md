@@ -73,28 +73,4 @@ public class TrianglePattern
 Thus, the Java program using looping statements to print a right-angled triangle star pattern was successfully written, executed, and verified.
 
 
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Looping Statement using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
+ RESULT:
